@@ -1,4 +1,4 @@
-#from add import add
+from add import add
 #from subtract import subtract
 #from multiply import multiply
 #from divide import divide
@@ -28,7 +28,7 @@ def calculator():
 
     
     operations = {
-        #1: add,
+        1: add,
         #2: subtract,
         #3: multiply,
         #4: divide
